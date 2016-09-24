@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FinalProjectMovieApp</string>
+    <string name="MOVIES_BASE_URL">http://api.themoviedb.org/3/discover/movie?sort_by=</string>
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">Smith</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_header_general">General</string>
+    <string name="pref_header_data_sync">Data &amp; syncc</string>
+    <string name="pref_title_sync_frequency">Frequency</string>
+    <string name="pref_title_system_sync_settings">System Sync settings</string>
+
+
+</resources>
